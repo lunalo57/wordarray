@@ -1,5 +1,5 @@
 const target = document.getElementById('target');
-let array = ["développeur", "top", "magnifique", "créatif", "balèze"];
+let array = [" développeur", " créateur", " farceur", "futur acteur", " mec balèze"];
 let wordIndex = 0;
 let letterIndex = 0;
 
