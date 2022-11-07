@@ -5,7 +5,7 @@
 }
 body{
     background-color: darkgrey;
-    animation: color 10s alternate;
+    animation: color 10s infinite;
     display: flex;
     flex-direction: column;
     justify-content: center;
